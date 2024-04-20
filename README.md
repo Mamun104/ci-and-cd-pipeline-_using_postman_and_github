@@ -92,8 +92,7 @@
 
 ## newman-reporter-html
 
-![image](https://github.com/Mamun104/ci-and-cd-pipeline-_using_postman_and_github/assets/78067017/bd71ea35-a882-4b67-a69f-4b7ba3a5a6ce)
-
+![Newman-Summary-Report](https://github.com/Mamun104/ci-and-cd-pipeline-_using_postman_and_github/assets/78067017/4ae7cbdb-166f-4bb8-98f3-f7a78b3f6b0b)
 
 ## What is CI:
 Continuous delivery (CD) is the automated delivery of completed code to environments like testing and development. CD provides an automated and consistent way for code to be delivered to these environments.
